@@ -1,4 +1,10 @@
 # [0.1.0](https://github.com/xiaozhu188/letsgo/compare/v1.1.2...v0.1.0) (2021-11-10)
+
+### 🎨 代码样式
+范围|描述|commitId
+--|--|--
+ components | 移除移除helloworld组件 | [ab12e5b](https://github.com/xiaozhu188/letsgo/commit/ab12e5b)
+
 ## [1.1.2](https://github.com/xiaozhu188/letsgo/compare/v1.1.1...v1.1.2) (2021-11-10)
 
 ### 🐛 Bug 修复
