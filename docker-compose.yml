@@ -1,0 +1,11 @@
+version: '3'
+services:
+  letsgo-server:
+    build:
+      context: ./
+      dockerfile: ./Dockerfile
+    container_name: letsgo-server-container
+    environment:
+      TZ: Asia/Shanghai
+    ports:
+      - "2005:8101"
